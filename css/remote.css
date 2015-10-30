@@ -1,0 +1,45 @@
+.center {
+    text-align: center;
+}
+
+
+.eatrh{
+    width: 700px;
+    background-image: url("../images/earth.gif");
+    background-position: bottom center;
+    background-repeat: no-repeat;
+}
+
+#earth .remote-R{
+	padding-right:3em;
+	
+}
+
+#earth .remote-E{
+	padding-right:3em;
+}
+#earth .remote-M{
+	padding-right:0em;
+}
+#earth .remote-O{
+	padding-left:1em;
+	padding-right:4em;
+
+}
+#earth .remote-T{
+	padding-right:4em;
+}
+
+.step.hide:not(.active) 
+{
+	opacity: 0;
+}
+
+.
+
+#small_text {
+	font-size: 70%;
+}
+
+
+
